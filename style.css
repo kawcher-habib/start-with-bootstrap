@@ -1,0 +1,27 @@
+/* 
+* Template Name: Start-With-Bootstrap
+* Author: kawcher habib(kh)
+* Author Gmail: kawcher578@gmail.com
+*/
+
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-size: 12px;
+}
+.banner__section{
+    background-image: url('img/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.banner__padding{
+    padding:11% 0;
+}
+
+.testimonial{
+    background:#ebe0e0;
+}
